@@ -15,9 +15,11 @@ To overlay the hex values on the frames, we'll iterate through the hex values an
 
 Step 4: Writing the Processed Video
 Finally, we'll create an output video file and write the processed frames with the overlaid hex values. We'll use OpenCV's VideoWriter class to accomplish this. The output video will maintain the same dimensions and frame rate as the input video.
-
-References:![output1](https://github.com/sahilutekar/HexValueVideoProcessing/assets/67375790/d2402953-ff75-4d5c-b1a6-a0b382358659)
-
-
-    OpenCV Documentation: https://docs.opencv.org/
+References: OpenCV Documentation: https://docs.opencv.org/
     Python Documentation: https://docs.python.org/
+
+![output1](https://github.com/sahilutekar/HexValueVideoProcessing/assets/67375790/d2402953-ff75-4d5c-b1a6-a0b382358659)
+
+
+    
+    
