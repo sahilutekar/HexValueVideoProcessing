@@ -66,8 +66,8 @@ class VideoProcessor:
         cv2.destroyAllWindows()
 
 # Example usage
-video_path = "C:/Users/sahil/Desktop/colour/muddy.mp4"
-output_video_path = "C:/Users/sahil/Desktop/colour/output2.mp4"
+video_path = "your_path"
+output_video_path = "your_path"
 
 processor = VideoProcessor(video_path, output_video_path)
 processor.process_video()
